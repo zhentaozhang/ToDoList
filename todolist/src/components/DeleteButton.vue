@@ -9,12 +9,13 @@
 
 <script>
 export default {
-  name: "DeleteButton"
+  name: "DeleteButton",
+
 }
 </script>
 
 <style scoped>
-/* From uiverse.io */
+
 button {
   width: 150px;
   height: 30px;

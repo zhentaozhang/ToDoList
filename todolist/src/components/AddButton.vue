@@ -4,11 +4,12 @@
 
 <script>
 export default {
-  name: "AddButton"
+  name: "AddButton",
 }
 </script>
 
 <style scoped>
+
 button {
   display: block;
   margin: 0 auto;
